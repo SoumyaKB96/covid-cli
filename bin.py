@@ -1,7 +1,0 @@
-x=str(bin(42)).replace("0b","")
-print(x)
-x=x.replace("1","a")
-x=x.replace("0", "b")
-x=x.replace("b","1")
-x=x.replace("a","0")
-print(x)

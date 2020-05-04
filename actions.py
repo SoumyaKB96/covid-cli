@@ -41,4 +41,4 @@ def cont_case(key):
                 print(x, "\t", i[x])
             break    
 
-
+def help()
