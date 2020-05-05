@@ -41,4 +41,13 @@ def cont_case(key):
                 print(x, "\t", i[x])
             break    
 
-def help()
+def help():
+    print("Usage:")
+    print("---------")
+    print(" -t  \t \t displays data for India")
+    print(" -s [State] \t displays data for the states of India")
+    print(" -i  \t \t displays data for world total")
+    print(" -i [Country] \t displays data for entered country")
+    print(" -h  \t \t help")
+
+help()
